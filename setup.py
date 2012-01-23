@@ -58,7 +58,7 @@ require_mod = [ 'Bio (>=1.54)']
 
 
 setup(name        = 'extend_align',
-      version     =  time.strftime("%Y%m%d"),
+      version     =  '1.0',
       author      = "Néron Bertrand",
       author_email = "bneron@pasteur.fr" ,
       license      = "GPLv3" ,
