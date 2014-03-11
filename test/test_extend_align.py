@@ -18,7 +18,7 @@ import shutil
 
 src_path = os.path.abspath( os.path.join( os.path.dirname( __file__ ) , '..', 'src') )
 sys.path.append( src_path )
-script_path =  os.path.abspath( __file__ )
+script_path = os.path.join( src_path , 'extend_align')
 os.symlink( script_path , script_path + ".py" )
 from extend_align import *
 os.unlink( script_path + ".py" )
