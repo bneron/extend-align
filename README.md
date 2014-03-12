@@ -14,4 +14,8 @@ extended alignment
     seqA seqA'
     seqB seqB'
     seqC seqC'
+    
+Download distribution
+=====================
 
+[ ![Download](https://api.bintray.com/packages/bneron/generic/extend-align/images/download.png) ](http://dl.bintray.com/bneron/generic/extend_align-1.0.tar.gz)
