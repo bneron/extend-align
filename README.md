@@ -18,4 +18,4 @@ extended alignment
 Download distribution
 =====================
 
-[ ![Download](https://api.bintray.com/packages/bneron/generic/extend-align/images/download.png) ](https://bintray.com/bneron/generic/extend-align/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/bneron/generic/extend-align/images/download.png) ](http://dl.bintray.com/bneron/generic/extend_align-1.0.tar.gz)
